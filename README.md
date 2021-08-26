@@ -1,5 +1,5 @@
-# sqlalchemy-challenge
-
+# SQLAlchemy Hawaii Climate
+(sqlalchemy-challenge)
 Work for SQLAlchemy Homework for UoA Data Visualization Bootcamp
 
 ## Climate Jupyter Notebook
