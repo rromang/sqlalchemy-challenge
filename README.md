@@ -4,7 +4,7 @@ Work for SQLAlchemy Homework for UoA Data Visualization Bootcamp
 
 ## Climate Jupyter Notebook
 
-#### The work for the climate portion was completed. Creating dataframes from the queries is makes data wrangling much more manageable. I am somewhat doubtful about the shape of the histograms and the binning. I would need to look at the data in the dataframe to see if something is amiss. Did both pandas histograms as well as matplotlib ones and they had originally given me different shapes although the binning was the same but when re-run the shape change to the final one in this repository. Due to time constrains, I moved to the next portion of the assignment.
+#### The work for the climate portion was completed. Creating dataframes from the queries makes data wrangling much more manageable. I am somewhat doubtful about the shape of the histograms and the binning. I would need to look at the data in the dataframe to see if something is amiss. Did both pandas histograms as well as matplotlib ones and they had originally given me different shapes although the binning was the same but when re-run the shape change to the final one in this repository. Due to time constrains, I moved to the next portion of the assignment.
 
 ## App Python File
 
